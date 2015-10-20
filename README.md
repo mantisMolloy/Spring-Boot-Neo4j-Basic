@@ -3,7 +3,7 @@ Basic Spring Boot Neo4j access using an embedded Neo4j instance. Person entities
 relationships created between person objects.
 
 ###Sample Output
-`
+```
 Lookup each person by name...
 John's teammates include
 	- George
@@ -40,4 +40,5 @@ George's teammates include
 	- Ringo
 	- Paul
 	- John
-`
+````
+
